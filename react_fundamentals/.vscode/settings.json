@@ -1,0 +1,24 @@
+{
+    "editor.formatOnSave": true,
+	"editor.tabSize": 4,
+
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/node_modules": true,
+        "**/yarn.lock": true,
+        "**/.eslintcache": true
+    },
+    "explorerExclude.backup": null
+}
